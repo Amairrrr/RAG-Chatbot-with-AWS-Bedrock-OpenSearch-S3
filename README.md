@@ -1,4 +1,4 @@
-# Turn Your Data into an AI Chatbot-1
+# Turn Your Data into an AI Chatbot-2
 
 ## 🚀 Project Overview
 This project demonstrates how to build an AI chatbot that specializes in answering questions about you, your work, and your knowledge. By leveraging **Retrieval Augmented Generation (RAG)**, we train an AI model on your personal documents using **Amazon Bedrock**, integrating various AWS services to create a powerful, knowledge-driven chatbot.
