@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 This project demonstrates how to build an AI chatbot that specializes in answering questions about you, your work, and your knowledge. By leveraging **Retrieval Augmented Generation (RAG)**, we train an AI model on your personal documents using **Amazon Bedrock**, integrating various AWS services to create a powerful, knowledge-driven chatbot.
-[!Architecture](https://github.com/Amairrrr/RAG-Chatbot-with-AWS-Bedrock-OpenSearch-S3/blob/8820d28a101368f368c2bcda5cf35c14448a7c89/images/Architecture.png)
+![Architecture](https://github.com/Amairrrr/RAG-Chatbot-with-AWS-Bedrock-OpenSearch-S3/blob/8820d28a101368f368c2bcda5cf35c14448a7c89/images/Architecture.png)
 
 ## 🏗️ Services Used
 - **Amazon Bedrock** – AI model management and inference
